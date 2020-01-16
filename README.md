@@ -1,5 +1,5 @@
 # Tomaz Git Repositório
 
-![./github.png](GitHub)
+![](C:\Users\Tomaz\tomazGitRepositorio)
 
 Este repositório serve como aprendizagem de Git e GitHub.
