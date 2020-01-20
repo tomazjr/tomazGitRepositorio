@@ -2,3 +2,7 @@ git-github
 dart/flutter
 android
 programação
+
+python
+java
+javaScript
