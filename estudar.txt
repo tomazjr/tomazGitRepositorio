@@ -6,3 +6,4 @@ programação
 python
 java
 javaScript
+shell
